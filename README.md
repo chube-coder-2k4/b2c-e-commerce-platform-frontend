@@ -1,5 +1,17 @@
 # 🎨 Frontend Tech Stack - React E-Commerce Platform
 
+> 🎓 **DÀNH CHO NGƯỜI MỚI HỌC REACT**: Đã tạo sẵn các file học tập chi tiết!
+> 
+> - 📖 **HƯỚNG_DẪN_LOGIN.md** - Giải thích code từng dòng
+> - 🚀 **CÁCH_SỬ_DỤNG.md** - Hướng dẫn chạy và học
+> - 💻 **src/App-WithLogic.tsx** - Code có logic thực tế
+> - 🎯 **src/App-Examples.tsx** - 9 bài học React cơ bản
+> - 📊 **src/App-Comparison.tsx** - So sánh HTML vs React
+>
+> **BẮT ĐẦU TẠI**: `CÁCH_SỬ_DỤNG.md`
+
+---
+
 ## 📋 Backend Analysis
 Backend của bạn bao gồm:
 - **Authentication**: JWT, OAuth2 (Google, GitHub, Facebook), OTP verification
